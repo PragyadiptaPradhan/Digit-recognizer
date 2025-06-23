@@ -184,4 +184,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Pragyadipta Pradhan**
 - GitHub: [@PragyadiptaPradhan](https://github.com/PragyadiptaPradhan)
-- Repository: [Handwiting-digit-recognizer](https://github.com/PragyadiptaPradhan/Handwiting-digit-recognizer)
+- Repository: [Handwiting-digit-recognizer](https://github.com/PragyadiptaPradhan/Digit-recognizer)
